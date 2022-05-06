@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img align="left" alt ="Memorisecodead GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Orange-hanter&border_color=true&theme=dark" />
 <!--
 **Orange-hanter/Orange-hanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
